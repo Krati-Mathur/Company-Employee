@@ -1,6 +1,7 @@
 # CompanyEmployee
+## Overview
 An Employee management system consisting of information about employees and departments and performing CRUD (Create, Read, Update and Delete) operations in Asp.Net Core 6.0 Web API with Database First approach on Employee and Department.
-## Prerequisites
+### Prerequisites
 * Visual Studio 2022
 * ASP.Net Core 6.0
 ### Functionalities
