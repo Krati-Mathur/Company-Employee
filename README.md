@@ -4,6 +4,12 @@ An Employee management system consisting of information about employees and depa
 ### Prerequisites
 * Visual Studio 2022
 * ASP.Net Core 6.0
+* NuGet Packages -
+  1. Microsoft.EntityFrameworkCore.
+  2. Microsoft.EntityFrameworkCore.SqlServer
+  3. Microsoft.AspNetCore.Mvc.NewtonsoftJson
+  4. Swashbuckle.AspNetCore
+  5. Microsoft.OpenApi
 ### Functionalities
 1. Display employees:
 Be able to retrieve employees/department from a REST API and display them.
